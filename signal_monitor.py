@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 #!/usr/bin/env python3
 """
 HOMO 庄家信号监测 — 检测主力进场/撤离/对倒
