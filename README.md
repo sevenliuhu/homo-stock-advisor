@@ -234,7 +234,6 @@ HOMO 后端服务器
   <sub>让每个股民都能享受专业级的投资分析 —— 不带情绪的那种</sub>
 </p>
 
-
 ---
 
 ## Business Contact
@@ -244,7 +243,7 @@ HOMO 后端服务器
 | Channel | Contact |
 |:--------|:--------|
 | Email | **16208204@qq.com** |
-| Phone/WeChat | **** |
+
 | GitHub | [sevenliuhu](https://github.com/sevenliuhu) |
 | Services | Web Scraping, AI Agent Workflows, Web Dev, Brand Design, Short Video, Tech Solutions |
 
