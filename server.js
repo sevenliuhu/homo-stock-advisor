@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com */
 /**
  * HOMO 股票分析 — 后端API（权限保护版）
  * 
