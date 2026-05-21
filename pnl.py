@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 #!/usr/bin/env python3
 """HOMO盈亏计算器 — 实时算盈亏"""
 import sys, urllib.request
