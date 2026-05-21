@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 #!/usr/bin/env python3
 """
 HOMO 股票Pro版 — 批量分析 + 热点 + 龙虎榜 + 解禁预警
