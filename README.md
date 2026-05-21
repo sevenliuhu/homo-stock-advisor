@@ -244,7 +244,7 @@ HOMO 后端服务器
 | Channel | Contact |
 |:--------|:--------|
 | Email | **16208204@qq.com** |
-| Phone/WeChat | **13437576418** |
+| Phone/WeChat | **** |
 | GitHub | [sevenliuhu](https://github.com/sevenliuhu) |
 | Services | Web Scraping, AI Agent Workflows, Web Dev, Brand Design, Short Video, Tech Solutions |
 
