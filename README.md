@@ -233,3 +233,21 @@ HOMO 后端服务器
   <b>Made with ❤️ by <a href="https://github.com/sevenliuhu">HOMO Team</a></b><br/>
   <sub>让每个股民都能享受专业级的投资分析 —— 不带情绪的那种</sub>
 </p>
+
+
+---
+
+## Business Contact
+
+**HOMO AI Agent OS** — Not just an AI assistant, your entire AI team.
+
+| Channel | Contact |
+|:--------|:--------|
+| Email | **16208204@qq.com** |
+| Phone/WeChat | **13437576418** |
+| GitHub | [sevenliuhu](https://github.com/sevenliuhu) |
+| Services | Web Scraping, AI Agent Workflows, Web Dev, Brand Design, Short Video, Tech Solutions |
+
+> For custom development or commercial license, contact us above. Response within 24h.
+> This repository is for reference only. Commercial use requires a license.
+
