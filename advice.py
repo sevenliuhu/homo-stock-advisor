@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 #!/usr/bin/env python3
 """HOMO股票投顾 — 买不买一句话"""
 import sys, json, urllib.request, time
