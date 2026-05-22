@@ -261,3 +261,10 @@ HOMO 后端服务器
 👉 [**https://sevenliuhu.github.io/Homo-Ai/unlock.html**](https://sevenliuhu.github.io/Homo-Ai/unlock.html)
 
 内容包括：A股量化模板 / 反爬指纹规则集 / 134技能索引 / 记忆系统配置 / 电商SKILL模板 / 中国风设计色板 等 12 份独家资源。
+
+
+## 📜 商业授权
+
+需要将此项目用于商业用途？获取商业授权与付款信息：
+- 📧 发送邮件至 **16208204@qq.com** 说明使用场景
+- 📝 填写授权表单：**[https://sevenliuhu.github.io/Homo-Ai/unlock.html](https://sevenliuhu.github.io/Homo-Ai/unlock.html)**（页面底部"获取商业授权"）
